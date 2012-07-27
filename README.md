@@ -1,4 +1,5 @@
 Codeigniter SteamLib
+--------------------------
 
 Load the library with:
 
